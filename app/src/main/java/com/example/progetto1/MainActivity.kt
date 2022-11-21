@@ -31,7 +31,7 @@ fun Greeting(name: String) {
     Text(text = "Hello $name!?")
 }
 
-@Preview(name = "Anteprima",showBackground = true)
+@Preview(name = "Anteprima progetto",showBackground = true)
 @Composable
 fun DefaultPreview() {
     Progetto1Theme {
